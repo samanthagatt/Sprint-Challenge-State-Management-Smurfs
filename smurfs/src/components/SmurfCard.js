@@ -6,9 +6,11 @@ const useStyles = makeStyles({
     root: {
         textDecoration: "none",
         padding: "20px 40px",
+        transition: "all 0.5s",
         "&:hover": {
             background: "lightgray"
-        }
+        },
+        margin: 10
     }
 });
 

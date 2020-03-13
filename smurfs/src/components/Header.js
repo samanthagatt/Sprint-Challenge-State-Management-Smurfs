@@ -13,7 +13,8 @@ const useStyles =  makeStyles({
         color: "white"
     },
     children: {
-        margin: 10
+        margin: 10,
+        background: "white"
     }
 });
 
